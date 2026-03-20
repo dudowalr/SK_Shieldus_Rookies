@@ -1,0 +1,5 @@
+.env
+dataset/fulldata.csv
+creditcard.csv
+*.csv
+dataset/
